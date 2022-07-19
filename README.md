@@ -1,6 +1,7 @@
 Olá, eu sou Raquel😊
 
--💻 Estudando Front-end 
+- Front End Student.
+- Software Engineering Student.
 
 <div align="center">
   <a href="https://github.com/iamraquel">
